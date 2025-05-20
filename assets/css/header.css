@@ -1,0 +1,86 @@
+/* 공통 초기화 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+.block {
+  display: block;
+}
+
+.flex {
+  display: flex;
+  gap: 1rem;
+}
+
+/* ========== header 영역 ========== */
+header {
+  width: 100%;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #ddd;
+}
+
+header > .wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+header > .wrap > h1 > a.block {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+header > .wrap > nav {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+header > .wrap > nav > ul.gnb.flex > li > a.block {
+  font-size: 1rem;
+  color: #333;
+  padding: 0.5rem;
+}
+
+header > .wrap > nav > ul.enb.flex > li > a {
+  font-size: 0.9rem;
+  color: #007bff;
+  padding: 0.5rem;
+}
+
+/* ========== 반응형 스타일 ========== */
+@media (max-width: 768px) {
+  header > .wrap {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  header > .wrap > nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  header > .wrap > nav > ul.gnb.flex,
+  header > .wrap > nav > ul.enb.flex {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}

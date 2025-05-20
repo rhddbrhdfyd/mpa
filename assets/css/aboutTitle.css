@@ -1,0 +1,16 @@
+#subTitle .wrap {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 50vh;
+    background-color: #919191;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+}
+#subTitle h2 {
+    font-size: 33px;
+}
+#subTitle p {
+    font-size: 18px;
+}

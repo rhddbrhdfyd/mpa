@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "여름 반팔티",
+    "price": 19900,
+    "category": "summer",
+    "image": "/assets/images/shirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "기념일 선물세트",
+    "price": 39900,
+    "category": "gift",
+    "image": "/assets/images/gift.jpg"
+  },
+  {
+    "id": 3,
+    "name": "베스트셀러 책",
+    "price": 15900,
+    "category": "popular",
+    "image": "/assets/images/book.jpg"
+  },
+  {
+    "id": 4,
+    "name": "기념일 선물세트2",
+    "price": 39900,
+    "category": "gift",
+    "image": "/assets/images/gift.jpg"
+  },
+  {
+    "id": 5,
+    "name": "기념일 선물세트3",
+    "price": 39900,
+    "category": "gift",
+    "image": "/assets/images/gift.jpg"
+  },
+  {
+    "id": 6,
+    "name": "기념일 선물세트4",
+    "price": 39900,
+    "category": "gift",
+    "image": "/assets/images/gift.jpg"
+  }
+]

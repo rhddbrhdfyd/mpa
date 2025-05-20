@@ -1,0 +1,17 @@
+footer{
+   background-color: antiquewhite;
+}
+footer .wrap{
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+footer .wrap h1{
+    font-size: 22px;
+}
+footer .wrap p{
+    font-size: 14px;
+}

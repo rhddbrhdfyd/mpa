@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>쇼핑몰 MVP</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/modern-css-reset/dist/reset.min.css">
+  <link rel="stylesheet" href="../assets/css/header.css">
+  <link rel="stylesheet" href="../assets/css/aboutTitle.css">
+  <link rel="stylesheet" href="../assets/css/aboutContents.css">
+  <link rel="stylesheet" href="../assets/css/footer.css">
+
+</head>
+<body>
+  <header></header>
+  <div id="subTitle"></div>
+  <main>
+    <section id="subContents"></section>
+  </main>
+  <footer></footer>
+  <script>
+      // 모듈 불러오기
+      $('header').load('./header.html');
+      $('#subTitle').load('./aboutTitle.html');
+      $('#subContents').load('./aboutContents.html');
+      $('footer').load('./footer.html');
+  </script>
+  <section><h2>소개</h2></section>
+</body>
+</html>
