@@ -31,6 +31,7 @@
 // Composition API 방식에서는 <script setup> 사용
 import { RouterLink } from 'vue-router'
 import '../../../assets/css/header.css'
+
 </script>
 
 <style scoped>

@@ -8,37 +8,214 @@
   },
   {
     "id": 2,
+    "name": "린넨 반바지",
+    "price": 22900,
+    "category": "summer",
+    "image": "/assets/images/shorts.jpg"
+  },
+  {
+    "id": 3,
+    "name": "시원한 슬리퍼",
+    "price": 9900,
+    "category": "summer",
+    "image": "/assets/images/slipper.jpg"
+  },
+  {
+    "id": 4,
+    "name": "썸머 캡모자",
+    "price": 13900,
+    "category": "summer",
+    "image": "/assets/images/cap.jpg"
+  },
+  {
+    "id": 5,
+    "name": "해변용 선글라스",
+    "price": 15900,
+    "category": "summer",
+    "image": "/assets/images/sunglasses.jpg"
+  },
+  {
+    "id": 6,
+    "name": "여름 셔츠",
+    "price": 25900,
+    "category": "summer",
+    "image": "/assets/images/summer-shirt.jpg"
+  },
+  {
+    "id": 7,
+    "name": "비치 타월",
+    "price": 17900,
+    "category": "summer",
+    "image": "/assets/images/towel.jpg"
+  },
+  {
+    "id": 8,
+    "name": "쿨링 스카프",
+    "price": 12900,
+    "category": "summer",
+    "image": "/assets/images/scarf.jpg"
+  },
+  {
+    "id": 9,
+    "name": "썸머 샌들",
+    "price": 18900,
+    "category": "summer",
+    "image": "/assets/images/sandal.jpg"
+  },
+
+  {
+    "id": 10,
     "name": "기념일 선물세트",
     "price": 39900,
     "category": "gift",
     "image": "/assets/images/gift.jpg"
   },
   {
-    "id": 3,
+    "id": 11,
+    "name": "로맨틱 캔들박스",
+    "price": 25900,
+    "category": "gift",
+    "image": "/assets/images/candle.jpg"
+  },
+  {
+    "id": 12,
+    "name": "메시지 카드세트",
+    "price": 4900,
+    "category": "gift",
+    "image": "/assets/images/card.jpg"
+  },
+  {
+    "id": 13,
+    "name": "테디베어 인형",
+    "price": 19900,
+    "category": "gift",
+    "image": "/assets/images/bear.jpg"
+  },
+  {
+    "id": 14,
+    "name": "초콜릿박스",
+    "price": 12900,
+    "category": "gift",
+    "image": "/assets/images/choco.jpg"
+  },
+  {
+    "id": 15,
+    "name": "감사 꽃다발",
+    "price": 20900,
+    "category": "gift",
+    "image": "/assets/images/flower.jpg"
+  },
+  {
+    "id": 16,
+    "name": "커플 팔찌",
+    "price": 14900,
+    "category": "gift",
+    "image": "/assets/images/bracelet.jpg"
+  },
+  {
+    "id": 17,
+    "name": "스페셜 박스세트",
+    "price": 49900,
+    "category": "gift",
+    "image": "/assets/images/box.jpg"
+  },
+  {
+    "id": 18,
+    "name": "감동 메시지 프레임",
+    "price": 9900,
+    "category": "gift",
+    "image": "/assets/images/frame.jpg"
+  },
+  {
+    "id": 19,
+    "name": "핸드크림 세트",
+    "price": 10900,
+    "category": "gift",
+    "image": "/assets/images/handcream.jpg"
+  },
+  {
+    "id": 20,
+    "name": "로맨틱 무드등",
+    "price": 21900,
+    "category": "gift",
+    "image": "/assets/images/lamp.jpg"
+  },
+  {
+    "id": 21,
+    "name": "감사 편지지",
+    "price": 4900,
+    "category": "gift",
+    "image": "/assets/images/letter.jpg"
+  },
+
+  {
+    "id": 22,
     "name": "베스트셀러 책",
     "price": 15900,
     "category": "popular",
     "image": "/assets/images/book.jpg"
   },
   {
-    "id": 4,
-    "name": "기념일 선물세트2",
-    "price": 39900,
-    "category": "gift",
-    "image": "/assets/images/gift.jpg"
+    "id": 23,
+    "name": "요즘 핫한 향수",
+    "price": 28900,
+    "category": "popular",
+    "image": "/assets/images/perfume.jpg"
   },
   {
-    "id": 5,
-    "name": "기념일 선물세트3",
-    "price": 39900,
-    "category": "gift",
-    "image": "/assets/images/gift.jpg"
+    "id": 24,
+    "name": "스마트 텀블러",
+    "price": 19900,
+    "category": "popular",
+    "image": "/assets/images/tumbler.jpg"
   },
   {
-    "id": 6,
-    "name": "기념일 선물세트4",
-    "price": 39900,
-    "category": "gift",
-    "image": "/assets/images/gift.jpg"
+    "id": 25,
+    "name": "무선 이어폰",
+    "price": 59900,
+    "category": "popular",
+    "image": "/assets/images/earphone.jpg"
+  },
+  {
+    "id": 26,
+    "name": "건강식품 세트",
+    "price": 34900,
+    "category": "popular",
+    "image": "/assets/images/health.jpg"
+  },
+  {
+    "id": 27,
+    "name": "리빙 인테리어 소품",
+    "price": 22900,
+    "category": "popular",
+    "image": "/assets/images/deco.jpg"
+  },
+  {
+    "id": 28,
+    "name": "감성 노트북 파우치",
+    "price": 20900,
+    "category": "popular",
+    "image": "/assets/images/pouch.jpg"
+  },
+  {
+    "id": 29,
+    "name": "북유럽 감성 텀블러",
+    "price": 17900,
+    "category": "popular",
+    "image": "/assets/images/nordic.jpg"
+  },
+  {
+    "id": 30,
+    "name": "미니 가습기",
+    "price": 16900,
+    "category": "popular",
+    "image": "/assets/images/humidifier.jpg"
+  },
+  {
+    "id": 31,
+    "name": "LED 무드등",
+    "price": 14900,
+    "category": "popular",
+    "image": "/assets/images/led.jpg"
   }
 ]
